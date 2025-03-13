@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Features & Usage
+##  Features & Usage
 
 ###  **1. Create a New GitHub Repository**
 - **Command:**  
@@ -29,7 +29,7 @@
 ###  **5. Add & Commit Changes**
 - **Command:**  
   ```bash
-  python3 main.py commit ./repo_path "Added new feature
+  python3 main.py commit ./repo_path "Added new feature"
 
 ###  **6.  Push Changes to GitHub**
 - **Command:**  
